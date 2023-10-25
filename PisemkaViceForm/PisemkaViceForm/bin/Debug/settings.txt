@@ -1,0 +1,3 @@
+Color [A=255, R=0, G=255, B=64]
+[Font: Name=Microsoft Sans Serif, Size=9,75, Units=3, GdiCharSet=238, GdiVerticalFont=False]
+True

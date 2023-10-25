@@ -1,0 +1,14 @@
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\bin\Debug\PisemkaViceForm.exe.config
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\bin\Debug\PisemkaViceForm.exe
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\bin\Debug\PisemkaViceForm.pdb
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.csproj.AssemblyReference.cache
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.Form1.resources
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.Form2.resources
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.Properties.Resources.resources
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.csproj.GenerateResource.cache
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.csproj.CoreCompileInputs.cache
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.exe
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.pdb
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.Form3.resources
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.Form4.resources
+G:\Programování\4.ROČNÍK\PisemkaViceForm\PisemkaViceForm\obj\Debug\PisemkaViceForm.Konec.resources
